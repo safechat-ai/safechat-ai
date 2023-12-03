@@ -1,1 +1,1 @@
-# .github
+# .safechat-ai
